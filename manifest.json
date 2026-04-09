@@ -1,7 +1,7 @@
 {
   "required_api_version": "2.0.0",
   "name": "Nix integration",
-  "description": "Nix integration",
+  "description": "Look up and run Nix packages",
   "developer_name": "Daste745",
   "icon": "images/icon.png",
   "options": {
